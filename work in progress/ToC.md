@@ -1,6 +1,6 @@
 # Lighttable User docu
 
-%% descriptipn of lighttable in a few sentences
+%% Introduction
 
 ## Installation
 - archlinux
@@ -29,12 +29,14 @@
 
 - Command bar
 - Search function
-- workspace
+- workspace (incl. Ctrl O)
 - Console
 - common terms
 - tabsets: split screen vertically
+- browser
+- if you come from Emacs or Vim
 
-## Common workflows
+## Specific language support
 
 - [Clojure and Clojurescript](example_clojure_workflow.md)
 
