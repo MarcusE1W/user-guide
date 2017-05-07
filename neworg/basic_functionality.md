@@ -2,6 +2,10 @@
 
 All you could want to know about: files, navigation, connections, commands, and searching. The division between basic functionality and advanced functionality is somewhat arbitrary, so be sure to check out both sections.
 
+### How-to:
+[How to do things in LightTable](how.md)
+
+
 ### Opening and creating new files
 
 To create a new file, use the `New file` menu item in the `File` menu or press `cmd/Ctrl-N`.

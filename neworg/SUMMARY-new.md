@@ -8,7 +8,8 @@
 * [Workflow - Clojure](clojure_workflow-new.md)
 * [Workflow - Javascript](start-js.md)
 * [Workflow - Python](start-python.md)
-* [How Do I...](how.md)
+* [Workflow - Elm](https://rundis.gitbooks.io/elm-light-guide/content/)
+* [Workflow - Markdown](markdown-workflow.md)
 * [Common Terms](common_terms.md)
 * [Full tutorial](tutorials/full-new.md)
 
